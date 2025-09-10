@@ -2,6 +2,8 @@
 
 A tool to bypass Qoder limitations by spoofing machine ID and managing the application.
 
+⭐ **If this tool helps you, please consider starring this repository on GitHub to support the project!** ⭐
+
 ## Requirements
 
 - Windows (no macOS support)
