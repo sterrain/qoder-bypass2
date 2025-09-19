@@ -9,7 +9,7 @@ A tool to bypass Qoder limitations by spoofing machine ID and managing the appli
 - [Qoder Bypass 1.22 Changelog](https://github.com/ProTechPh/qoder-bypass/commits/Qoder-Bypass-1.22)
 - [Qoder Bypass 1.23 Changelog](https://github.com/ProTechPh/qoder-bypass/commits/Qoder-Bypass-1.23)
 - [Qoder Bypass 0.2.1 Changelog](https://github.com/ProTechPh/qoder-bypass/compare/Qoder-Bypass-1.22...Qoder-Bypass-0.2.1)
-- [Qoder Bypass 0.2.1 Changelog](https://github.com/ProTechPh/qoder-bypass/compare/Qoder-Bypass-0.2.1...Qoder-Bypass-0.2.2)
+- [Qoder Bypass 0.2.2 Changelog](https://github.com/ProTechPh/qoder-bypass/compare/Qoder-Bypass-0.2.1...Qoder-Bypass-0.2.2)
 
 ## Requirements
 
