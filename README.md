@@ -1,18 +1,18 @@
 # QoderManager
 
-QoderManager is a Windows utility designed to help users bypass and restore Qoder machine IDs. It is distributed as a standalone executable for ease of use.
+QoderManager is a Windows utility designed to help users bypass and restore Qoder settings. It is distributed as a standalone executable for ease of use.
 
 ## Features
-- **Start Bypass:** Resets Qoder machine IDs and related system identifiers. Automatically closes any running Qoder processes before starting the bypass.
-- **Restore Bypass:** Restores Qoder machine IDs from a backup.
+- **Start Bypass:** Resets Qoder settings and related system identifiers. Automatically closes any running Qoder processes before starting the bypass.
+- **Restore Bypass:** Restores Qoder settings from a backup.
 - **Quit Qoder Process:** Allows you to close any running Qoder processes directly from the menu.
 
 ## Usage
 1. Download and run the `QoderManager.exe` file.
 2. The application requires administrator privileges to modify system registry and files.
 3. Use the menu to select your desired operation:
-   - **Start Bypass**: Resets Qoder machine IDs. If Qoder is running, it will be closed automatically.
-   - **Restore Bypass**: Restore machine IDs from a previous backup.
+   - **Start Bypass**: Resets Qoder settings. If Qoder is running, it will be closed automatically.
+   - **Restore Bypass**: Restore Qoder settings from a previous backup.
    - **Quit Qoder Process**: Manually close any running Qoder processes.
    - **Exit**: Close the application.
 
