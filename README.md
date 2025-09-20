@@ -98,3 +98,5 @@ This tool is designed for Windows only. macOS users are not supported.
 ---
 
 **Disclaimer**: This tool is for educational purposes. Use responsibly and in accordance with applicable terms of service.
+
+credits: aura
