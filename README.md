@@ -9,6 +9,7 @@ A tool to bypass Qoder limitations by spoofing machine ID and managing the appli
 - [Qoder Bypass 1.22 Changelog](https://github.com/ProTechPh/qoder-bypass/commits/Qoder-Bypass-1.22)
 - [Qoder Bypass 1.23 Changelog](https://github.com/ProTechPh/qoder-bypass/commits/Qoder-Bypass-1.23)
 - [Qoder Bypass 0.2.1 Changelog](https://github.com/ProTechPh/qoder-bypass/compare/Qoder-Bypass-1.22...Qoder-Bypass-0.2.1)
+- [Qoder Bypass 0.2.2 Changelog](https://github.com/ProTechPh/qoder-bypass/compare/Qoder-Bypass-0.2.1...Qoder-Bypass-0.2.2)
 
 ## Requirements
 
@@ -85,7 +86,7 @@ If you want to make a new account (for example, if you used 2k credits fully):
 If you used an old account, it will definitely not work. Same with banned accounts - this tool will **NOT** unban already banned accounts.
 
 ### 4. Which versions are officially supported?
-**Answer:** Qoder versions 0.1.20, 0.1.21, 0.1.22, and 0.1.23 are officially supported.
+**Answer:** Qoder versions 0.1.20, 0.1.21, 0.1.22, 0.1.23, 0.2.1 and 0.2.2 are officially supported.
 
 ### 5. How does this thing work?
 **Answer:** It modifies a specific address (machineId address) using memory manipulation to change it to a random UUID value, effectively spoofing your machine identity to Qoder.
@@ -97,3 +98,5 @@ This tool is designed for Windows only. macOS users are not supported.
 ---
 
 **Disclaimer**: This tool is for educational purposes. Use responsibly and in accordance with applicable terms of service.
+
+credits: aura
